@@ -1,0 +1,30 @@
+body{
+    background-color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+}
+.container{
+    display: grid;
+    place-items: center;
+}
+.container h1{
+    color: goldenrod;
+}
+.container p{
+    color: white;
+}
+button{
+    background-color: goldenrod;
+    color: #016f32
+    width: 150px;
+    padding: 5px 5px;
+    border: none;
+    font-weight: bold;
+    border-raduis: 2px; 
+
+}
+.newcard{
+    width: 100px;
+    margin: 5px;
+}
